@@ -2,6 +2,8 @@
   <img src="assets/thumbnail.png" width="100%" alt="Stream Start" />
 </h1>
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Syne&weight=900&pause=1000&color=C70000&center=true&vCenter=true&width=435&lines=Welcome+to+Jawad's+Github!" alt="Typing SVG" /></a>
+
 ## 🔗 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/muhammad-jawad-bufthem-46540a2a7/">
