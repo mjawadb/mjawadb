@@ -29,61 +29,37 @@
   <img src="https://raw.githubusercontent.com/mjawadb/jawad-portofolio/master/src/assets/excla-mark.webp" width="30" align="center" style="transform: scaleX(-1);" />
 </h2>
 
-<!-- LANGUAGES -->
-<marquee behavior="scroll" direction="left" scrollamount="10">
-  <table align="center" border="0" style="background-color: transparent;">
-    <tr>
-      <td align="center" width="200"><h3>LANGUAGES</h3></td>
-      <td align="center" width="80"><img src="skills/lang/c.svg" width="35"/><br><b>C</b></td>
-      <td align="center" width="80"><img src="skills/lang/cpp.svg" width="35"/><br><b>C++</b></td>
-      <td align="center" width="80"><img src="skills/lang/csharp.svg" width="35"/><br><b>C#</b></td>
-      <td align="center" width="80"><img src="skills/lang/python.svg" width="35"/><br><b>Python</b></td>
-      <td align="center" width="80"><img src="skills/lang/js.svg" width="35"/><br><b>JavaScript</b></td>
-      <td align="center" width="80"><img src="skills/lang/mysql.svg" width="35"/><br><b>MySQL</b></td>
-    </tr>
-  </table>
-</marquee>
+<!-- SKILLS -->
+<p align="center">
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+</p>
 
-<!-- GAME DEV -->
-<marquee behavior="scroll" direction="right" scrollamount="12">
-  <table align="center" border="0" style="background-color: transparent;">
-    <tr>
-      <td align="center" width="80"><img src="skills/game-dev/unity.svg" width="35"/><br><b>Unity</b></td>
-      <td align="center" width="80"><img src="skills/game-dev/unreal-engine.svg" width="35"/><br><b>Unreal Engine</b></td>
-      <td align="center" width="80"><img src="skills/game-dev/blender.svg" width="35"/><br><b>Blender</b></td>
-      <td align="center" width="80"><img src="skills/game-dev/aseprite.svg" width="35"/><br><b>Aseprite</b></td>
-      <td align="center" width="200"><h3>GAME DEV</h3></td>
-    </tr>
-  </table>
-</marquee>
+<p align="center">
+  <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
+  <img src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Unreal Engine" />
+  <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" />
+  <img src="https://img.shields.io/badge/Aseprite-%23FFFFFF.svg?style=for-the-badge&logo=Aseprite&logoColor=black" alt="Aseprite" />
+</p>
 
-<!-- FRAMEWORKS -->
-<marquee behavior="scroll" direction="left" scrollamount="14">
-  <table align="center" border="0" style="background-color: transparent;">
-    <tr>
-      <td align="center" width="200"><h3>FRAMEWORK & LIBRARIES</h3></td>
-      <td align="center" width="80"><img src="skills/framework/nodejs.svg" width="35"/><br><b>Node.js</b></td>
-      <td align="center" width="80"><img src="skills/framework/tailwind.svg" width="35"/><br><b>Tailwind</b></td>
-      <td align="center" width="80"><img src="skills/framework/react.svg" width="35"/><br><b>ReactJS</b></td>
-      <td align="center" width="80"><img src="skills/framework/bootstrap.svg" width="35"/><br><b>Bootstrap</b></td>
-    </tr>
-  </table>
-</marquee>
+<p align="center">
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+</p>
 
-<!-- VERSION CONTROL & EDITING -->
-<marquee behavior="scroll" direction="right" scrollamount="11">
-  <table align="center" border="0" style="background-color: transparent;">
-    <tr>
-      <td align="center" width="80"><img src="skills/version-control/git.svg" width="35"/><br><b>Git</b></td>
-      <td align="center" width="80"><img src="skills/version-control/github.svg" width="35"/><br><b>GitHub</b></td>
-      <td align="center" width="200"><h3>VERSION CONTROL</h3></td>
-      <td align="center" width="80"><img src="skills/edits/premiere-pro.svg" width="35"/><br><b>Premiere Pro</b></td>
-      <td align="center" width="80"><img src="skills/edits/ae.svg" width="35"/><br><b>After Effects</b></td>
-      <td align="center" width="80"><img src="skills/edits/davinci.svg" width="35"/><br><b>DaVinci Resolve</b></td>
-      <td align="center" width="200"><h3>EDITING</h3></td>
-    </tr>
-  </table>
-</marquee>
+<p align="center">
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-%239999FF.svg?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white" alt="Premiere Pro" />
+  <img src="https://img.shields.io/badge/Adobe%20After%20Effects-%239999FF.svg?style=for-the-badge&logo=adobe-after-effects&logoColor=white" alt="After Effects" />
+  <img src="https://img.shields.io/badge/DaVinci_Resolve-%23000000.svg?style=for-the-badge&logo=DaVinciResolve&logoColor=white" alt="DaVinci Resolve" />
+</p>
 
 <br><br>
 
