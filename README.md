@@ -1,73 +1,90 @@
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=mjawadb&color=d92323&style=for-the-badge&label=PHANTOM+THIEVES+DETECTED" alt="Profile Visitors" />
-  <br><br>
+  <img src="https://raw.githubusercontent.com/mjawadb/jawad-portofolio/master/src/assets/stream-start.webp" width="700" alt="Stream Start" />
 </div>
-
----
-
-<div align="center">
-  <h2>🎩 "It's time to steal some hearts... with some code!" 🎩</h2>
-  <p><strong>I am thou, thou art I... just kidding. I'm Muhammad Jawad!</strong></p>
-  <p><i>Game Developer | AI Enthusiast | Learner</i></p>
-  <br>
-  
-  🎮 I'm passionate about creating immersive and meaningful gaming experiences. <br>
-  🧩 I love turning ideas into interactive worlds through programming and game design. <br>
-  🌱 I’m always open to cross-disciplinary projects and new creative challenges. <br>
-  💬 Ask me about **Unity, Unreal Engine, or anything Game Dev related!** <br><br>
-
-  <a href="LINK_LINKEDIN_ANDA" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-d92323?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="LINK_PORTOFOLIO_VERCEL_ANDA" target="_blank">
-    <img src="https://img.shields.io/badge/Web_Portfolio-000000?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" />
-  </a>
-</div>
-
----
-
-<div align="center">
-  <h3>🔥 FIELD SKILLS 🔥</h3>
-  <br>
-  <p>
-    <!-- Languages -->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="45" height="45"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" height="45"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="45" height="45"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="45" height="45"/>
-  </p>
-  <p>
-    <!-- Game Dev -->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="Unity" width="45" height="45"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" alt="Unreal Engine" width="45" height="45"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" alt="Blender" width="45" height="45"/>
-  </p>
-  <p>
-    <!-- Web & Tools -->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="45" height="45"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind" width="45" height="45"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="45" height="45"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="45" height="45"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" alt="Premiere Pro" width="45" height="45"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" alt="After Effects" width="45" height="45"/>
-  </p>
-</div>
-
----
-
-<div align="center">
-  <h3>⚔️ SELECTED PROJECTS ⚔️</h3>
-  <br>
-</div>
-
-| **Escape from HELL** | **Zombie Beatdown** | **Mario 3D** |
-| :---: | :---: | :---: |
-| A 2D action platformer where players escape the underworld by overcoming deadly traps and enemies. | A rhythm-based zombie game made in 48 hours, combining music and fast-paced action. | A 3D recreation of the classic Mario platforming experience with jumping mechanics. |
-| [Play Here](https://mjawadb.itch.io/escape-from-hell-pc) | [Play Here](https://mjawadb.itch.io/zombie-beatdown) | [Watch Here](https://www.tiktok.com/@mjawaadb/video/7360725369554554118) |
 
 <br>
+
 <div align="center">
-  <i>"TAKE YOUR HEART"</i>
+  <table style="border: none;">
+    <tr>
+      <td width="40%" align="center" style="border: none;">
+        <img src="https://raw.githubusercontent.com/mjawadb/jawad-portofolio/master/src/assets/hero.webp" width="350" alt="Hero Character" />
+      </td>
+      <td width="60%" style="border: none;">
+        <h1 style="color: #d92323;">❝ It's time to steal some hearts... with some code! ❞</h1>
+        <h3>— Muhammad Jawad</h3>
+        <p><b>[ GAME DEVELOPER ] • [ AI ENTHUSIAST ] • [ LEARNER ]</b></p>
+        <p>I love turning ideas into interactive worlds through programming, game design, and creative problem-solving.</p>
+        <br>
+        <p>
+          <a href="LINK_LINKEDIN_ANDA"><img src="https://img.shields.io/badge/LinkedIn-d92323?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+          <a href="LINK_PORTOFOLIO_ANDA"><img src="https://img.shields.io/badge/WEB_PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
+<h2><img src="https://raw.githubusercontent.com/mjawadb/jawad-portofolio/master/src/assets/excla-mark.webp" width="35" align="top" /> FIELD SKILLS</h2>
+
+<table width="100%">
+  <tr>
+    <td width="33%" align="center"><b>🎮 GAME DEV</b></td>
+    <td width="33%" align="center"><b>💻 LANGUAGES</b></td>
+    <td width="33%" align="center"><b>🛠️ FRAMEWORKS & TOOLS</b></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="45"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" width="45"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="45"/>
+    </td>
+    <td align="center">
+      <br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="45"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
+    </td>
+    <td align="center">
+      <br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="45"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<h2><img src="https://raw.githubusercontent.com/mjawadb/jawad-portofolio/master/src/assets/excla-mark.webp" width="35" align="top" /> SELECTED PROJECTS</h2>
+
+<table>
+  <tr>
+    <td width="33%" align="center" valign="top">
+      <a href="https://mjawadb.itch.io/escape-from-hell-pc"><img src="https://raw.githubusercontent.com/mjawadb/jawad-portofolio/master/src/assets/projects/escape-from-hell.webp" width="100%" /></a>
+      <br><br><b>Escape from HELL</b><br><i>2D Action Platformer</i>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <a href="https://mjawadb.itch.io/zombie-beatdown"><img src="https://raw.githubusercontent.com/mjawadb/jawad-portofolio/master/src/assets/projects/zombie-beatdown.webp" width="100%" /></a>
+      <br><br><b>Zombie Beatdown</b><br><i>Rhythm-based Action</i>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <a href="https://www.tiktok.com/@mjawaadb/video/7360725369554554118"><img src="https://raw.githubusercontent.com/mjawadb/jawad-portofolio/master/src/assets/projects/mario-3d.webp" width="100%" /></a>
+      <br><br><b>Mario 3D</b><br><i>3D Platforming</i>
+    </td>
+  </tr>
+</table>
+
+<br><br>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=mjawadb&color=d92323&style=for-the-badge&label=PHANTOM+THIEVES+DETECTED" alt="Profile Visitors" />
+  <br><br>
+  <b><i>"TAKE YOUR HEART"</i></b>
 </div>
