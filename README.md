@@ -11,3 +11,6 @@
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" alt="Website" width="40" />
   </a>
 </p>
+
+<!-- Snake Contributions -->
+![snake gif](https://github.com/mjawadb/mjawadb/blob/output/github-snake-dark.svg)
