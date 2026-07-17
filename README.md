@@ -30,58 +30,60 @@
 </h2>
 
 <!-- LANGUAGES -->
-<h3 align="center">LANGUAGES</h3>
-<table align="center" border="0" style="background-color: transparent;">
-  <tr>
-    <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50"/><br><b>C</b></td>
-    <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50"/><br><b>C++</b></td>
-    <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50"/><br><b>C#</b></td>
-    <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/><br><b>Python</b></td>
-    <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/><br><b>JavaScript</b></td>
-    <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/><br><b>MySQL</b></td>
-  </tr>
-</table>
+<marquee behavior="scroll" direction="left" scrollamount="10">
+  <table align="center" border="0" style="background-color: transparent;">
+    <tr>
+      <td align="center" width="200"><h3>LANGUAGES</h3></td>
+      <td align="center" width="80"><img src="skills/lang/c.svg" width="35"/><br><b>C</b></td>
+      <td align="center" width="80"><img src="skills/lang/cpp.svg" width="35"/><br><b>C++</b></td>
+      <td align="center" width="80"><img src="skills/lang/csharp.svg" width="35"/><br><b>C#</b></td>
+      <td align="center" width="80"><img src="skills/lang/python.svg" width="35"/><br><b>Python</b></td>
+      <td align="center" width="80"><img src="skills/lang/js.svg" width="35"/><br><b>JavaScript</b></td>
+      <td align="center" width="80"><img src="skills/lang/mysql.svg" width="35"/><br><b>MySQL</b></td>
+    </tr>
+  </table>
+</marquee>
 
 <!-- GAME DEV -->
-<h3 align="center">GAME DEV</h3>
-<table align="center" border="0" style="background-color: transparent;">
-  <tr>
-    <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="50"/><br><b>Unity</b></td>
-    <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" width="50"/><br><b>Unreal Engine</b></td>
-    <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="50"/><br><b>Blender</b></td>
-    <td align="center" width="100"><img src="https://raw.githubusercontent.com/mjawadb/jawad-portofolio/master/src/assets/skills/game-dev/aseprite.svg" width="50"/><br><b>Aseprite</b></td> 
-  </tr>
-</table>
+<marquee behavior="scroll" direction="right" scrollamount="12">
+  <table align="center" border="0" style="background-color: transparent;">
+    <tr>
+      <td align="center" width="80"><img src="skills/game-dev/unity.svg" width="35"/><br><b>Unity</b></td>
+      <td align="center" width="80"><img src="skills/game-dev/unreal-engine.svg" width="35"/><br><b>Unreal Engine</b></td>
+      <td align="center" width="80"><img src="skills/game-dev/blender.svg" width="35"/><br><b>Blender</b></td>
+      <td align="center" width="80"><img src="skills/game-dev/aseprite.svg" width="35"/><br><b>Aseprite</b></td>
+      <td align="center" width="200"><h3>GAME DEV</h3></td>
+    </tr>
+  </table>
+</marquee>
 
 <!-- FRAMEWORKS -->
-<h3 align="center">FRAMEWORK & LIBRARIES</h3>
-<table align="center" border="0" style="background-color: transparent;">
-  <tr>
-    <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50"/><br><b>Node.js</b></td>
-    <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="50"/><br><b>Tailwind</b></td>
-    <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/><br><b>ReactJS</b></td>
-    <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50"/><br><b>Bootstrap</b></td>
-  </tr>
-</table>
+<marquee behavior="scroll" direction="left" scrollamount="14">
+  <table align="center" border="0" style="background-color: transparent;">
+    <tr>
+      <td align="center" width="200"><h3>FRAMEWORK & LIBRARIES</h3></td>
+      <td align="center" width="80"><img src="skills/framework/nodejs.svg" width="35"/><br><b>Node.js</b></td>
+      <td align="center" width="80"><img src="skills/framework/tailwind.svg" width="35"/><br><b>Tailwind</b></td>
+      <td align="center" width="80"><img src="skills/framework/react.svg" width="35"/><br><b>ReactJS</b></td>
+      <td align="center" width="80"><img src="skills/framework/bootstrap.svg" width="35"/><br><b>Bootstrap</b></td>
+    </tr>
+  </table>
+</marquee>
 
-<!-- VERSION CONTROL -->
-<h3 align="center">VERSION CONTROL</h3>
-<table align="center" border="0" style="background-color: transparent;">
-  <tr>
-    <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/><br><b>Git</b></td>
-    <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/><br><b>GitHub</b></td>
-  </tr>
-</table>
-
-<!-- EDITING -->
-<h3 align="center">EDITING</h3>
-<table align="center" border="0" style="background-color: transparent;">
-  <tr>
-    <td align="center" width="100"><img src="https://raw.githubusercontent.com/mjawadb/jawad-portofolio/master/src/assets/skills/edits/premiere-pro.svg" width="50"/><br><b>Premiere Pro</b></td>
-    <td align="center" width="100"><img src="https://raw.githubusercontent.com/mjawadb/jawad-portofolio/master/src/assets/skills/edits/ae.svg" width="50"/><br><b>After Effects</b></td>
-    <td align="center" width="100"><img src="https://raw.githubusercontent.com/mjawadb/jawad-portofolio/master/src/assets/skills/edits/davinci.svg" width="50"/><br><b>DaVinci Resolve</b></td>
-  </tr>
-</table>
+<!-- VERSION CONTROL & EDITING -->
+<marquee behavior="scroll" direction="right" scrollamount="11">
+  <table align="center" border="0" style="background-color: transparent;">
+    <tr>
+      <td align="center" width="80"><img src="skills/version-control/git.svg" width="35"/><br><b>Git</b></td>
+      <td align="center" width="80"><img src="skills/version-control/github.svg" width="35"/><br><b>GitHub</b></td>
+      <td align="center" width="200"><h3>VERSION CONTROL</h3></td>
+      <td align="center" width="80"><img src="skills/edits/premiere-pro.svg" width="35"/><br><b>Premiere Pro</b></td>
+      <td align="center" width="80"><img src="skills/edits/ae.svg" width="35"/><br><b>After Effects</b></td>
+      <td align="center" width="80"><img src="skills/edits/davinci.svg" width="35"/><br><b>DaVinci Resolve</b></td>
+      <td align="center" width="200"><h3>EDITING</h3></td>
+    </tr>
+  </table>
+</marquee>
 
 <br><br>
 
@@ -91,19 +93,28 @@
   <img src="https://raw.githubusercontent.com/mjawadb/jawad-portofolio/master/src/assets/excla-mark.webp" width="30" align="center" style="transform: scaleX(-1);" />
 </h2>
 
-<p align="center">
-  <a href="https://mjawadb.itch.io/escape-from-hell-pc">
-    <img src="https://raw.githubusercontent.com/mjawadb/jawad-portofolio/master/src/assets/projects/escape-from-hell.webp" width="30%" alt="Escape from HELL" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://mjawadb.itch.io/zombie-beatdown">
-    <img src="https://raw.githubusercontent.com/mjawadb/jawad-portofolio/master/src/assets/projects/zombie-beatdown.webp" width="30%" alt="Zombie Beatdown" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.tiktok.com/@mjawaadb/video/7360725369554554118">
-    <img src="https://raw.githubusercontent.com/mjawadb/jawad-portofolio/master/src/assets/projects/mario-3d.webp" width="30%" alt="Mario 3D" />
-  </a>
-</p>
+<marquee behavior="alternate" direction="left" scrollamount="6">
+  <table align="center" border="0" style="background-color: transparent;">
+    <tr>
+      <td align="center" width="340">
+        <a href="https://mjawadb.itch.io/escape-from-hell-pc">
+          <img src="https://raw.githubusercontent.com/mjawadb/jawad-portofolio/master/src/assets/projects/escape-from-hell.webp" width="320" height="180" alt="Escape from HELL" style="border: 2px solid #d92323; border-radius: 8px;" />
+        </a>
+      </td>
+      <td align="center" width="340">
+        <a href="https://mjawadb.itch.io/zombie-beatdown">
+          <img src="https://raw.githubusercontent.com/mjawadb/jawad-portofolio/master/src/assets/projects/zombie-beatdown.webp" width="320" height="180" alt="Zombie Beatdown" style="border: 2px solid #000000; border-radius: 8px;" />
+        </a>
+      </td>
+      <td align="center" width="340">
+        <a href="https://www.tiktok.com/@mjawaadb/video/7360725369554554118">
+          <img src="https://raw.githubusercontent.com/mjawadb/jawad-portofolio/master/src/assets/projects/mario-3d.webp" width="320" height="180" alt="Mario 3D" style="border: 2px solid #d92323; border-radius: 8px;" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</marquee>
+
 <p align="center">
   <i>(Click the project images above to view them!)</i>
 </p>
