@@ -1,3 +1,5 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF003C,100:111111&height=110&section=header" alt="Red and black inverted wave" />
+
 <h1 align="center">
   <img src="assets/thumbnail.png" width="100%" alt="Stream Start" />
 </h1>
