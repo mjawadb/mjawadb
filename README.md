@@ -28,9 +28,9 @@ I believe the best way to learn is by building, experimenting, making mistakes, 
 </p>
 
 <picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mjawadb/mjawadb/pacman-output/bomberman-contribution-graph-dark.svg?game=bomberman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mjawadb/mjawadb/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mjawadb/mjawadb/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mjawadb/mjawadb/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mjawadb/mjawadb/pacman-output/galaga-contribution-graph.svg?game=galaga">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mjawadb/mjawadb/pacman-output/galaga-contribution-graph.svg?game=galaga">
 </picture>
 
 ###
