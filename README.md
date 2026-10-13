@@ -3,6 +3,8 @@
 </h1>
 
 ###
+###
+### 
 
 ## 🃏 ABOUT ME
 
@@ -63,6 +65,9 @@ I believe the best way to learn is by building, experimenting, making mistakes, 
 </div>
 
 <hr></hr>
+### 
+###
+###
 
 <picture data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mjawadb/mjawadb/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
