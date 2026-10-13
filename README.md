@@ -10,6 +10,10 @@
 </a>
 </div>
 
+<div data-importer="profile-views" align="center">
+  <img data-importer="profile-views" src="https://count.getloli.com/@:maurodesouz?theme=booru-helltaker&padding=7&scale=0.7&align=top&pixelated=1&darkmode=auto"  />
+</div>
+
 <br></br>
 <br></br>
 
