@@ -4,14 +4,14 @@
   <img src="assets/thumbnail.png" width="100%" alt="Stream Start" />
 </h1>
 
+<div data-importer="profile-views" align="center">
+  <img data-importer="profile-views" src="https://count.getloli.com/@:maurodesouz?theme=booru-helltaker&padding=7&scale=0.7&align=top&pixelated=1&darkmode=auto"  />
+</div>
+
 <div align="center">
 <a href="https://github.com/mjawadb">
   <img src="https://img.shields.io/badge/OWNER-Muhammad%20Jawad%20Bufthem-FF003C?style=for-the-badge&logo=github&logoColor=white" alt="Owner: Muhammad Jawad Bufthem" />
 </a>
-</div>
-
-<div data-importer="profile-views" align="center">
-  <img data-importer="profile-views" src="https://count.getloli.com/@:maurodesouz?theme=booru-helltaker&padding=7&scale=0.7&align=top&pixelated=1&darkmode=auto"  />
 </div>
 
 <br></br>
