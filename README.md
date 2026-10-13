@@ -2,9 +2,14 @@
   <img src="assets/thumbnail.png" width="100%" alt="Stream Start" />
 </h1>
 
-###
-###
-### 
+<div align="center">
+<a href="https://github.com/mjawadb">
+  <img src="https://img.shields.io/badge/OWNER-Muhammad%20Jawad%20Bufthem-FF003C?style=for-the-badge&logo=github&logoColor=white" alt="Owner: Muhammad Jawad Bufthem" />
+</a>
+</div>
+
+<br></br>
+<br></br>
 
 ## 🃏 ABOUT ME
 
@@ -65,9 +70,9 @@ I believe the best way to learn is by building, experimenting, making mistakes, 
 </div>
 
 <hr></hr>
-### 
-###
-###
+<br></br>
+<br></br>
+<br></br>
 
 <picture data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mjawadb/mjawadb/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
