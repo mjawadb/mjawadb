@@ -27,6 +27,8 @@ I believe the best way to learn is by building, experimenting, making mistakes, 
   </a>
 </p>
 
+<hr></hr>
+
 <picture data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mjawadb/mjawadb/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mjawadb/mjawadb/pacman-output/galaga-contribution-graph.svg?game=galaga">
